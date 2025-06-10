@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dexa-asia/fashion-web#readme",
+  "bugs": {
+    "url": "https://github.com/dexa-asia/fashion-web/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexa-asia/fashion-web.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.1",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7",
+    "striptags": "^3.2.0"
+  }
+}
